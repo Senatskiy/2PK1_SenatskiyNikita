@@ -47,6 +47,7 @@
                     Console.Write(string.Format("{0,2} ", a[i, j]));
                 }
                 Console.WriteLine();
+
             }
 
             for (int i = 0; i < n; i++)
