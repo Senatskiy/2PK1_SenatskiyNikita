@@ -1,0 +1,15 @@
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\bin\Debug\net6.0\Pz_11.exe
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\bin\Debug\net6.0\Pz_11.deps.json
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\bin\Debug\net6.0\Pz_11.runtimeconfig.json
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\bin\Debug\net6.0\Pz_11.dll
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\bin\Debug\net6.0\Pz_11.pdb
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\obj\Debug\net6.0\Pz_11.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\obj\Debug\net6.0\Pz_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\obj\Debug\net6.0\Pz_11.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\obj\Debug\net6.0\Pz_11.AssemblyInfo.cs
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\obj\Debug\net6.0\Pz_11.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\obj\Debug\net6.0\Pz_11.dll
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\obj\Debug\net6.0\refint\Pz_11.dll
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\obj\Debug\net6.0\Pz_11.pdb
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\obj\Debug\net6.0\Pz_11.genruntimeconfig.cache
+C:\Users\Никита\source\repos\2pk1_SenatskiyNikita\Pz_11\obj\Debug\net6.0\ref\Pz_11.dll
